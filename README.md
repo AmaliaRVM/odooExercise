@@ -1,4 +1,6 @@
-# odooExercise
+# odooExercise 
+## Published page: https://amaliarvm.github.io/odooExercise/ 
+
 ## Unified Arrows
 I replaced the "+" sign and the ">" sign with arrows to be inline with the existing arrows:  
   
