@@ -1,0 +1,42 @@
+
+
+//theme colors
+$main-blue: #028aff;
+$purple-dark:#161348;
+$orange-yellow: #fdbe3d;
+$turquoise: #5ccaa7;
+
+
+//color palette
+$colors: (
+"main-blue": $main-blue,
+"orange-yellow": $orange-yellow,
+"purple-dark": $purple-dark,
+"turquoise": $turquoise,
+"gray": #728194,
+"lightGray": #B0B0B0,
+"black": #000,
+"white": #fff,
+"lightWhite": #fafbff,
+"purple": #1d1347,
+"lightBlue": #4da2ff,
+"whiteGhost": #e1e8f0,
+);
+
+//spacing
+$base-padding: 40px;
+$base-margin: 40px;
+$secondary-padding: 60px;
+$secondary-margin: 80px;
+$light-padding: 20px;
+$light-margin: 20px;
+
+//buttons
+$btm-sm: 20px;
+
+//border
+
+$base-border: 20px;
+
+//font
+$smaller-text: 12px;
